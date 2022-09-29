@@ -1,0 +1,30 @@
+:pygments-style: tango
+:source-highlighter: pygments
+:toc:
+:toclevels: 7
+:sectnums:
+:sectnumlevels: 6
+:numbered:
+:chapter-label:
+:icons: font
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:status:
+:outfilesuffix: .adoc
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+:imagesdir: ./images/
+
+= Repository Listing
+
+This document should be updated and maintained as the master list for repositories contained within this organization. It should have a *Title* line which is created by *==* on for the repository and then a brief description and link to the repository.
+
+== Delivery AsciiDoc Template
+
+Template for creating Workshop and Non-GLS Formatted ASCIIDoc books. This will be used as the base for workshops and non-official course delivery content.
+
+https://github.com/RHTrainingDelivery/Delivery_Asciidoc_Template[Delivery ASCIIDoc Template]

@@ -21,9 +21,53 @@ endif::[]
 
 = Red Hat Training and Delivery
 
-The repositories contained within this organization are used to house custom and tailored course and workshop content.
+The repositories contained within this organization are used to house custom and tailored course and workshop content. There are two paths for creating books and custom workshop guides. One path is for the official GLS Course Guide/Student guide which uses the GLS templates and standards. The second method, which is slightly easier uses a different set of ASCIIDoc templates and AsciiDoc => PDF conversion.
+
+== GLS Course Guide Process
+
+In order to create a GLS-style Student Guide (SG) it is necessary to create a new repository and populate it with the content from the GLS Skeleton repository.
+
+. Create Repository for New Project
+. Clone the *GLS Skeleton* Repository
+. Clone the Repository for New Project
+. Copy contents from *GLS Skeleton* Repository to *Repository for New Project*
+. Edit the contents and build the guide.
+
+More complete instructions are here: https://github.com/RHTrainingDelivery/RH-Book-Build-Process
 
 
-*Course Index*
+[IMPORTANT]
+======
+You should always obtain the latest GLS Skeleton content from: https://github.com/RedHatTraining/skeleton
+======
 
-include::/profile/Course_Index.adoc[]
+
+== Red Hat Delivery Guide Process
+
+In order to create a Non-GLS-style course guide it is necessary to create a new repository and populate it with the content from the Delivery Asciidoc Tempalte repository.
+
+. Create Repository for New Project
+. Clone the *Delivery_Asciidoc_Template* Repository
+. Clone the Repository for New Project
+. Copy contents from *Delivery_Asciidoc_Template* to *Repository for New Project*
+. Edit the contents and build the guide.
+
+More complete instructions are here: https://github.com/RHTrainingDelivery/Delivery_Asciidoc_Template
+
+[TIP]
+======
+The *Red Hat Delivery Guide* AsciiDoc guide is more forgiving in terms of syntax and formatting. This guide can also be easily formatted and have a website/HTML version of the content easily created.
+======
+
+
+== Repository Overview
+
+Repositories can be created to house workshops, labs, and general course content. A course index listing has been created to be modified as new custom/tailored courses are created. Please update the course index with the proper information each time a new repository has been created.
+
+Likewise, a general repository index has been created in order to provide context on other repositories that have been added.
+
+.*Course Index*
+https://github.com/RHTrainingDelivery/.github/blob/main/profile/Course_Index.adoc[Course Listing]
+
+.*Repository Index*
+https://github.com/RHTrainingDelivery/.github/blob/main/profile/Repository_Index.adoc[Repository Listing]
