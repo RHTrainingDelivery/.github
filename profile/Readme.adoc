@@ -26,4 +26,4 @@ The repositories contained within this organization are used to house custom and
 
 *Course Index*
 
-include::./Course_Index.adoc[]
+include::Course_Index.adoc[]
