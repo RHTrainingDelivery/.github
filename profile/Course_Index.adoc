@@ -1,0 +1,34 @@
+:pygments-style: tango
+:source-highlighter: pygments
+:toc:
+:toclevels: 7
+:sectnums:
+:sectnumlevels: 6
+:numbered:
+:chapter-label:
+:icons: font
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:status:
+:outfilesuffix: .adoc
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+:imagesdir: ./images/
+
+= Course Listing
+
+This document should be updated and maintained as the master list for course and workshops. It should have a *Title* line which is created by *==* on the base course and who it was created for and delivered for and it should have a brief description of what it covers.
+
+Finally, within the course information, it should have the named repositories, a link to the repositories, and a description of what is contained within the repositories.
+
+== RH403 for ____ which contains _____
+
+Private: rh403v66AAP; Public: rh403v66AAP_Labs (students)
+
+== Private: RH423; Public rh423_labs (convert classroom), rh423_labs_public (students)
+
+== Private: RH403_Custom; Public rh403v66AAP_Labs (students)

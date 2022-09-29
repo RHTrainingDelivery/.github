@@ -1,9 +1,29 @@
-= ADOC Test
+:pygments-style: tango
+:source-highlighter: pygments
+:toc:
+:toclevels: 7
+:sectnums:
+:sectnumlevels: 6
+:numbered:
+:chapter-label:
+:icons: font
+ifndef::env-github[:icons: font]
+ifdef::env-github[]
+:status:
+:outfilesuffix: .adoc
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+:imagesdir: ./images/
 
-== RH403 for ____ which contains _____
+= Red Hat Training and Delivery
 
-Private: rh403v66AAP; Public: rh403v66AAP_Labs (students)
+The repositories contained within this organization are used to house custom and tailored course and workshop content.
 
-== Private: RH423; Public rh423_labs (convert classroom), rh423_labs_public (students)
 
-== Private: RH403_Custom; Public rh403v66AAP_Labs (students)
+*Course Index*
+
+include::./Course_Index.adoc[]
