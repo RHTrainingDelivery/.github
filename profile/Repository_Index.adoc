@@ -23,6 +23,50 @@ endif::[]
 
 This document should be updated and maintained as the master list for repositories contained within this organization. It should have a *Title* line which is created by *==* on for the repository and then a brief description and link to the repository.
 
+== EMEA_AAP2_1-Webinar
+Webinar to deliver at request of our trainingpartners on the AAP2 platform to support the AAP2 courseware
+Created by: Mourad Nakib (RHCI EMEA)
+Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+
+== Advanced Openstack_310
+Custom content based of of CL310 v10, upgraded to OSP16 with additional content on architecture and design.
+Created by: Piotr B, Nikos Z, JJ M, Erminio C
+Project Manager: Rik M, Irina B
+Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+
+== EMEA_Compiled_Orange_OINIS_OSP_13_16_Delta-01-2022
+Custom content on OpenStack for Orange. Content is mainly pdf
+Created by: Erminio Cassella
+Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+
+== EMEA_Compiled_OSP_16x_Architecture_Meditel_ZTE-02-2022
+Custom content on OpenStack for Meditel. Content is mainly pdf
+Created by: Erminio Cassella
+Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+
+== EMEA_microservices_quarkus_webinar
+This webinar is to promote our course content on cloud native application development using Microservices, Quarkus, Pipelines and more.
+Needs a skilled application developer as a primary facilitator due to the specialized content. The content and demo can be extended with AMQ, Kafka, Camel and more.
+The demo consists of a Quarkus back-end and VUE-JS front-end microservice and a persistent data store.
+Created by: Berker Agir (Application Architect at Consulting) and Rik Megens
+Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+
+== EMEA_sso-apps
+Exercises for the Custom content workshop on SSO.
+Dependency: sso-workshop
+Created by: Grega Bremec, Jose David Martin
+Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+comments: under heavy delelopment at the moment
+
+EMEA_sso-workshop
+Red Hat Single Sign On Custom Training
+Dependency: sso-apps
+Created by: Grega Bremec, Jose David Martin
+Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+comments: under heavy delelopment at the moment
+
+
+
 == Delivery AsciiDoc Template
 
 Template for creating Workshop and Non-GLS Formatted ASCIIDoc books. This will be used as the base for workshops and non-official course delivery content.
