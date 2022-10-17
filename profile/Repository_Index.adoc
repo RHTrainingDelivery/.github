@@ -80,7 +80,7 @@ Please proceed with the conversion to Quarkus as you see fit to win this deal. P
 
 Please ensure the converted course is not branded AD221 and change the title to avoid confusion. 
 ----
-Repository: github.com/RHTrainingDelivery/EMEA_Custom_AD221
+Repository: https://github.com/RHTrainingDelivery/EMEA_Custom_AD221
 
 == Delivery AsciiDoc Template
 
