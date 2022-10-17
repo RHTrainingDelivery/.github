@@ -65,7 +65,7 @@ Created by: Grega Bremec, Jose David Martin
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
 comments: under heavy delelopment at the moment
 
-== EMEA-Custom-AD221
+== EMEA_Custom_AD221
 Fork of AD221. Customized version of AD221 where all Spring Boot references have been refactored to Quarkus. 
 Initially for a customer in META.
 Comments:
@@ -80,6 +80,7 @@ Please proceed with the conversion to Quarkus as you see fit to win this deal. P
 
 Please ensure the converted course is not branded AD221 and change the title to avoid confusion. 
 ----
+Repository: github.com/RHTrainingDelivery/EMEA_Custom_AD221
 
 == Delivery AsciiDoc Template
 
