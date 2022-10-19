@@ -59,11 +59,19 @@ Comments: this repo is to migrate the content away from gitlab.consulting.redhat
 comments: under heavy delelopment at the moment
 
 == EMEA_sso-workshop
-Red Hat Single Sign On Custom Training
+Red Hat Single Sign On Custom Training workbook.
+Dependency: sso-apps, sso-playbooks
+Created by: Grega Bremec, Jose David Martin
+Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+comments: under heavy delelopment at the moment
+
+== EMEA_sso-playbooks
+Red Hat Single Sign On Custom Training playbooks to setup the classroom (on DO280) and the exercises 
 Dependency: sso-apps
 Created by: Grega Bremec, Jose David Martin
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
 comments: under heavy delelopment at the moment
+
 
 == EMEA_Custom_AD221
 Fork of AD221. Customized version of AD221 where all Spring Boot references have been refactored to Quarkus. 
