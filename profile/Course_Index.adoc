@@ -37,6 +37,8 @@ Private: rh403v66AAP; Public: rh403v66AAP_Labs (students)
 === Private: EMEA_sso-workshop
 Repo: https://github.com/RHTrainingDelivery/EMEA_sso-workshop.git
 
-=== Private: EMEA_sso-playbooks
+=== Public: EMEA_sso-playbooks
+Repo: https://github.com/RHTrainingDelivery/EMEA_sso-playbooks.git
 
 === Public: EMEA_sso-apps
+Repo: https://github.com/RHTrainingDelivery/EMEA_sso-apps.git
