@@ -27,22 +27,26 @@ This document should be updated and maintained as the master list for repositori
 Webinar to deliver at request of our trainingpartners on the AAP2 platform to support the AAP2 courseware
 Created by: Mourad Nakib (RHCI EMEA)
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+Repository: 
 
 == EMEA_Advanced Openstack_310
 Custom content based of of CL310 v10, upgraded to OSP16 with additional content on architecture and design.
 Created by: Piotr B, Nikos Z, JJ M, Erminio C
 Project Manager: Rik M, Irina B
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+Repository: 
 
 == EMEA_Compiled_Orange_OINIS_OSP_13_16_Delta-01-2022
 Custom content on OpenStack for Orange. Content is mainly pdf
 Created by: Erminio Cassella
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+Repository: 
 
 == EMEA_Compiled_OSP_16x_Architecture_Meditel_ZTE-02-2022
 Custom content on OpenStack for Meditel. Content is mainly pdf
 Created by: Erminio Cassella
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+Repository: 
 
 == EMEA_microservices_quarkus_webinar
 This webinar is to promote our course content on cloud native application development using Microservices, Quarkus, Pipelines and more.
@@ -50,6 +54,7 @@ Needs a skilled application developer as a primary facilitator due to the specia
 The demo consists of a Quarkus back-end and VUE-JS front-end microservice and a persistent data store.
 Created by: Berker Agir (Application Architect at Consulting) and Rik Megens
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
+Repository: 
 
 == EMEA_sso-apps
 Exercises for the Custom content workshop on SSO.
@@ -57,6 +62,7 @@ Dependency: sso-workshop
 Created by: Grega Bremec, Jose David Martin
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
 comments: under heavy delelopment at the moment
+Repository: 
 
 == EMEA_sso-workshop
 Red Hat Single Sign On Custom Training workbook.
@@ -64,6 +70,7 @@ Dependency: sso-apps, sso-playbooks
 Created by: Grega Bremec, Jose David Martin
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
 comments: under heavy delelopment at the moment
+Repository: 
 
 == EMEA_sso-playbooks
 Red Hat Single Sign On Custom Training playbooks to setup the classroom (on DO280) and the exercises 
@@ -71,7 +78,7 @@ Dependency: sso-apps
 Created by: Grega Bremec, Jose David Martin
 Comments: this repo is to migrate the content away from gitlab.consulting.redhat.com
 comments: under heavy delelopment at the moment
-
+Repository: 
 
 == EMEA_Custom_AD221
 Fork of AD221. Customized version of AD221 where all Spring Boot references have been refactored to Quarkus. 
@@ -89,6 +96,13 @@ Please proceed with the conversion to Quarkus as you see fit to win this deal. P
 Please ensure the converted course is not branded AD221 and change the title to avoid confusion. 
 ----
 Repository: https://github.com/RHTrainingDelivery/EMEA_Custom_AD221
+
+== Rd Hat GitOps and Tekton workshop
+Red Hat GitOps (ArgoCD) and Tekton workshop. Build by two Red Hat associates who love to be part of the further development.
+Forked from their repository.
+Created by:
+
+Repository: https://github.com/RHTrainingDelivery/EMEA_redhat-workshop-cicd-gitops
 
 == Delivery AsciiDoc Template
 
