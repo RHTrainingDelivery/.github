@@ -97,7 +97,7 @@ Please ensure the converted course is not branded AD221 and change the title to 
 ----
 Repository: https://github.com/RHTrainingDelivery/EMEA_Custom_AD221
 
-== Rd Hat GitOps and Tekton workshop
+== EMEA_Red Hat GitOps and Tekton workshop
 Red Hat GitOps (ArgoCD) and Tekton workshop. Build by two Red Hat associates who love to be part of the further development.
 Forked from their repository.
 Created by:
