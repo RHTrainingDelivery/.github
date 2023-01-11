@@ -25,13 +25,15 @@ This document should be updated and maintained as the master list for course and
 
 Finally, within the course information, it should have the named repositories, a link to the repositories, and a description of what is contained within the repositories.
 
-== RH403 for ____ which contains _____
+== RH403 with Ansible and SCAP Labs as well as reporting
 
-Private: rh403v66AAP; Public: rh403v66AAP_Labs (students)
+Private: RH403_Custom (Book) and rh403v66AAP (Book); Public: rh403v66AAP_Labs (students)
 
 == Private: RH423; Public rh423_labs (convert classroom), rh423_labs_public (students)
 
-== Private: RH403_Custom; Public rh403v66AAP_Labs (students)
+== OCP Tekton Delivery (Ricardo)
+Repos: NA_Tekton_workshop (Book - Private), NA_Tekton-playbooks (Playbooks - Private to be moved to GLS for WS500 classroom customization)
+
 
 == SSO Workshop
 === Private: EMEA_sso-workshop
