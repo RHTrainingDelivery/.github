@@ -44,3 +44,6 @@ Repo: https://github.com/RHTrainingDelivery/EMEA_sso-playbooks.git
 
 === Public: EMEA_sso-apps
 Repo: https://github.com/RHTrainingDelivery/EMEA_sso-apps.git
+
+== Red Hat Pipelines and Red Hat GitOps workshop
+Repo: https://github.com/RHTrainingDelivery/EMEA_Pipelines-and-GitOps.git
